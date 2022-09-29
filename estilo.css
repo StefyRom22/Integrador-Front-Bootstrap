@@ -1,0 +1,28 @@
+.text-acomodo{
+    top: 30%; 
+    right: 10%; 
+    margin-left: 25%;
+}
+
+footer{
+    background-color: #050754;
+    height: 85px;
+}
+
+#boton-enviar{
+    background-color: rgb(125, 226, 43);
+    border-radius: 5px;
+}
+
+.boton-comprar{
+    background-color: rgb(58, 188, 86);
+    border-radius: 5px;
+}
+
+.difuminar{
+    filter: brightness(0.5);
+}
+
+img{
+    vertical-align: middle;
+}
