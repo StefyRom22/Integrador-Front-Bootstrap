@@ -5,8 +5,7 @@
 }
 
 footer{
-    background-color: #050754;
-    height: 85px;
+    background: linear-gradient(to left, #1c618e 0%, #195c88 50%, #0a293d 100%);
 }
 
 #boton-enviar{
@@ -25,4 +24,17 @@ footer{
 
 img{
     vertical-align: middle;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: aqua;
+}
+
+.col a{
+    margin: 3;
 }
