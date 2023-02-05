@@ -13,6 +13,11 @@ footer{
     border-radius: 5px;
 }
 
+.boton-normal{
+    background-color: rgb(149, 196, 126);
+    border-radius: 5px;
+}
+
 .boton-comprar{
     background-color: rgb(58, 188, 86);
     border-radius: 5px;
@@ -37,4 +42,9 @@ a:hover{
 
 .col a{
     margin: 3;
+}
+
+#text_Precio{
+    background-color: #71b1dca8;
+    border-radius: 3px;
 }
